@@ -1,0 +1,2 @@
+https://codesandbox.io/p/sandbox/react-props-practice-completed-c6fkx?file=%2Fpublic%2Fstyles.css
+https://codesandbox.io/p/sandbox/mapping-components-practice-completed-forked-5tcqyt?file=%2Fsrc%2Fcomponents%2FApp.jsx&workspaceId=e6ddb9bf-ad61-46e2-bbc2-fc514f37b3d0
