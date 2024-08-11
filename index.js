@@ -171,6 +171,7 @@ app.listen(port, () => {
 
 
 
+
 /*await db.query("INSERT INTO clientinformation.account (account,password) 
     VALUES ('bahieu','123')");*/
 /*await db.query("DELETE FROM clientinformation.account
